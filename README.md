@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @figufema
 - 👀 I’m interested in FUTURES
-- 🌱 I’m currently learning DATA SCIENCE, IA, BLOCKCHAIN
+- 🌱 I’m currently learning DATA SCIENCE, MACHINE LEARNING, BLOCKCHAIN
 - 💞️ I'm look for opportunities to learn and collaborate on IA PROJECTS...
 - 📫 How to reach me: filipemaia.contato@gmail.com
 
